@@ -1,0 +1,2 @@
+# logstash-output-mytestseq
+mytestseq
